@@ -18,3 +18,8 @@ Yes, in fact, we do need these stinkin badges
 * https://github.com/pimoroni/QR-Code-Generator
 * https://learn.adafruit.com/pybadge-conference-badge-multi-language-unicode-fonts
 * https://learn.adafruit.com/adafruit-pybadge
+
+
+![Badger2040](https://github.com/tspannhw/FLiP-Py-SmartBadges/blob/main/IMG-7544.jpg?raw=true)
+
+![Device](https://github.com/tspannhw/FLiP-Py-SmartBadges/blob/main/IMG-7543.jpg?raw=true)
